@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Text-Zone/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/Text-Zone/static/js/main.c5590ea8.chunk.js",
+    "main.js.map": "/Text-Zone/static/js/main.c5590ea8.chunk.js.map",
+    "runtime~main.js": "/Text-Zone/static/js/runtime~main.6da9b4d0.js",
+    "runtime~main.js.map": "/Text-Zone/static/js/runtime~main.6da9b4d0.js.map",
+    "static/js/2.38fec76d.chunk.js": "/Text-Zone/static/js/2.38fec76d.chunk.js",
+    "static/js/2.38fec76d.chunk.js.map": "/Text-Zone/static/js/2.38fec76d.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/Text-Zone/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/Text-Zone/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/Text-Zone/index.html",
+    "precache-manifest.4792d3b7940157a712efaba6a4d1b8de.js": "/Text-Zone/precache-manifest.4792d3b7940157a712efaba6a4d1b8de.js",
+    "service-worker.js": "/Text-Zone/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/Text-Zone/static/css/main.435d5fe5.chunk.css.map"
+  }
+}
